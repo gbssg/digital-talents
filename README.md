@@ -9,4 +9,4 @@ Um mkdocs lokal zu verwenden, müssen folgende Schritte getätigt werden:
 - Start lokale mkdocs-Instanz über `mkdocs serve`.
 - Unter `docs/` können die entsprechenden Dateien verändert werden.
 
-Um einen aktuellen Stand auf Github zu deployen, kann über `mkdocs gh-deploy` der aktuelle Stand in den entsprechenden Branch gemerget werden. Die Webseite ist verfügbar unter https://digital-talents.ch.
+Um die Webseite zu aktualisieren, kann über `mkdocs gh-deploy` der aktuelle Stand in den entsprechenden Branch bei Github deployt werden. Die Webseite ist verfügbar unter https://digital-talents.ch.
