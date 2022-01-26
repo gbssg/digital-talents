@@ -6,6 +6,8 @@ nav:
   - 1. Allgemeine Module:
     - Versionsverwaltung: 1-10.md
     - Linux Grundlagen / Shell: 1-20.md
+    - Scripting Bash / PowerShell: 1-30.md
+    - Container Technologien: 1-40.md
   - 2. Applikationsentwicklung:
     - Objektorientierte Programmierung: 2-10.md
   - 3. ICT-Fachperson:
