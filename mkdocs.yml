@@ -9,8 +9,9 @@ nav:
     - Scripting Bash / PowerShell: 1-30.md
     - Container Technologien: 1-40.md
     - Cloud Technologien: 1-50.md
+    - Modellieren von Datenstrukturen & Daten auswerten: 1-60.md
   - 2. Applikationsentwicklung:
-    - Objektorientierte Programmierung: 2-10.md
+    - Objektorientierte Programmierung (Blockwoche): 2-10.md
   - 3. ICT-Fachperson:
     - Support: 3-10.md
   - 4. Mediamatik:
